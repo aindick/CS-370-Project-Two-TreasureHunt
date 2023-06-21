@@ -26,3 +26,8 @@ Connect your learning from throughout this course to the larger field of compute
 
 
 - What are my ethical responsibilities to the end user and the organization?
+
+  My ethical responsibilities to the user and the organization go hand in hand. Making sure there are no biases within the technology we create at the organization
+  will help keep users happy and keep the organization from losing its reputation. Also, being transparent with users and letting them know what the organization 
+  is doing with their information and data helps users feel safe and not as if the organization is using their information illegally. It is my and the
+  organization's responsibility to make sure the users are safe and don't feel discriminated against. 
