@@ -20,5 +20,9 @@ Connect your learning from throughout this course to the larger field of compute
 
 - How do I approach a problem as a computer scientist?
 
+  I approach a problem as a computer scientist by first analyzing what the problem is as a bigger picture. What is the end goal of the project, if there is one?
+  Then, I break each part of the problem down into smaller parts that are manageable if the problem feels overwhelming. Smaller tasks help me to make sure I'm
+  covering each edge case of the issue. 
+
 
 - What are my ethical responsibilities to the end user and the organization?
