@@ -16,7 +16,7 @@ Connect your learning from throughout this course to the larger field of compute
 
   Computer Scientists are the ones who help solve problems in a programmatic way. Using AI specifically to solve some problems like finding the best route possible
   and finding a faster solution to a problem is important for many jobs that want to use AI for these reasons so computer scientists have an important job when 
-  making AI solutions. 
+  making AI solutions. This matters a lot with jobs that require fast-thinking and quick solutions like customer service chatbots or data analytics.
 
 - How do I approach a problem as a computer scientist?
 
